@@ -1,0 +1,9 @@
+gym==0.21.0
+nes-py==8.2.1
+opencv-python-headless
+torch
+torchvision
+tqdm==4.62.3
+gym-super-mario-bros==7.4.0
+stable-baselines3
+tensorboard
