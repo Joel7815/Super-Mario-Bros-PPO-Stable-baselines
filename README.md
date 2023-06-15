@@ -22,7 +22,7 @@ Based on a 1000 consecutive episode the success rate of my agent is 17.4 percent
 
 If you want to train a succesful agent and you have a powerful GPU you can take the same parameters I have and change the number of environements from two to four. I would be very interested to see people manage to create an agent that gets an average reward of 3000. Don't hesitate to contact me if you have any questions.
 
-## Bonus Video of my agent finishing the level
+## Bonus Video : my agent finishing the first level
 
 
 https://github.com/Joel7815/Super-Mario-Bros-PPO-Stable-baselines/assets/101325473/04dde224-7303-405c-bb5d-efd5784337ef
